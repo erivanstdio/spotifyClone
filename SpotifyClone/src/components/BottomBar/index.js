@@ -7,6 +7,7 @@ import Search from '../../scenes/Search';
 import Library from '../../scenes/Library';
 import Icon from '../Icon';
 
+// bottom tab navigator
 const Tab = createBottomTabNavigator();
 
 const BottomBar = () => {
